@@ -1,0 +1,7 @@
+package polymorphism;
+
+public class Person {
+	public void eat(){
+		System.out.println("Eating like a person.");
+	}
+}
